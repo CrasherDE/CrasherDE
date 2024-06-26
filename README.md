@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @CrasherDE
+- 👋 Hi, I’m Paul
 - 👀 I’m interested in Gaming and learning how to programm
-- 🌱 I’m currently learning C# for Game Development with Unity and I'm thinking about to learn Python
+- 🌱 I want to learn C# so that I can develope some small games with it someday
+- 💻 I'm also interested in Lua and Python, but I don't want to learn to much at once
 - 📫 You can reach me on Discord (CrasherDE#6115)
 - 📃 I'm greatfull for every tip you can give me for C# ^ ^
 
